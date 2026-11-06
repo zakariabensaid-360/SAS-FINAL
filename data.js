@@ -23,4 +23,5 @@ totalExercices: 20, challengeTermine: false }
 
 
 
+
 export default data
