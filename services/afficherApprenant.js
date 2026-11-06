@@ -2,6 +2,7 @@ import data from "../data.js";
 import prompt from "../utilities/prompt.js";
 import calculerProgression from "./calculerProgression.js";
 
+
 export default function afficherApprenant() {
     let id = prompt('Identifiant de lapprenant: ')
     let obj = {}
